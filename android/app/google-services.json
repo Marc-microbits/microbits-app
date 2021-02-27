@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308372298189",
+    "firebase_url": "https://healthy-feat-241509.firebaseio.com",
+    "project_id": "healthy-feat-241509",
+    "storage_bucket": "healthy-feat-241509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308372298189:android:bb70a58089d9a1b0",
+        "android_client_info": {
+          "package_name": "co.microbits.microbits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308372298189-cmcd7lcd4f4nhh9gvu8ls2vennukk6it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIf4aWYwegJm1scbYMrhJGLSajGUz4AMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308372298189-cmcd7lcd4f4nhh9gvu8ls2vennukk6it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
